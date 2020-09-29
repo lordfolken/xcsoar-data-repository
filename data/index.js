@@ -8,4 +8,5 @@ exports.sections = [
     require('./openaip.json'),
     require('./gliding-hotspots.json'),
     require('./travel-by-glider.json'),
+    require('./rasp.json'),
 ]
