@@ -3,7 +3,7 @@
   "records": [
     {
       "name": "Germany",
-      "uri": ""http://rasp.linta.de/GERMANY/xcsoar-rasp.dat",
+      "uri": "http://rasp.linta.de/GERMANY/xcsoar-rasp.dat",
       "type": "rasp",
       "area": "de",
       "update": "daily"
