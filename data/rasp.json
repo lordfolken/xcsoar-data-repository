@@ -7,13 +7,6 @@
       "type": "rasp",
       "area": "de",
       "update": "daily"
-    },
-    {
-      "name": "Poland",
-      "uri": "http://www.fcst.pl/xcsoar-rasp.dat",
-      "type": "rasp",
-      "area": "pl",
-      "update": "daily"
     }
   ]
 }
