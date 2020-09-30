@@ -2,13 +2,6 @@
   "title": "rasp",
   "records": [
     {
-      "name": "Germany",
-      "uri": "http://rasp.linta.de/GERMANY/xcsoar-rasp.dat",
-      "type": "rasp",
-      "area": "de",
-      "update": "daily"
-    },
-    {
       "name": "Poland",
       "uri": "http://www.fcst.pl/xcsoar-rasp.dat",
       "type": "rasp",
