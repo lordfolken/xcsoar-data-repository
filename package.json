@@ -1,20 +1,20 @@
 {
-  "name": "xcsoar-data-repository",
+  "bugs": {
+    "url": "https://github.com/XCSoar/xcsoar-data-repository/issues"
+  },
+  "devDependencies": {
+    "mocha": ">=2.3.4",
+    "request": ">=2.67.0",
+    "supports-color": ">=4.0.0"
+  },
   "homepage": "https://github.com/XCSoar/xcsoar-data-repository",
+  "name": "xcsoar-data-repository",
   "repository": {
     "type": "git",
     "url": "https://github.com/XCSoar/xcsoar-data-repository.git"
   },
-  "bugs": {
-    "url": "https://github.com/XCSoar/xcsoar-data-repository/issues"
-  },
   "scripts": {
     "convert": "bin/convert.js",
     "test": "mocha -s 1000"
-  },
-  "devDependencies": {
-    "supports-color": ">=4.0.0",
-    "mocha": ">=2.3.4",
-    "request": ">=2.67.0"
   }
 }
