@@ -12,7 +12,7 @@ database.
 
 Contributions here have to pass:
   * A URL availability check
-  * A review by another contributer 
+  * A review by another contributer
 
 If both checks pass, the resulting repository file is automatically generated and deployed to [http://download.xcsoar.org/repository](http://download.xcsoar.org/repository)
 
@@ -58,7 +58,7 @@ The URL of the location of the file to download.
 Please note:
  * Use HTTP URLs when possible as some platforms can't do SSL
  * The URL is checked before the resulting repository file is deployed
- 
+
 
 #### type
 
@@ -72,7 +72,7 @@ File type of the referenced file:
 
 #### area
 
-This is the [ISO 3166](https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes) country code, of the area the file is active in. 
+This is the [ISO 3166](https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes) country code, of the area the file is active in.
 
 
 #### update
@@ -81,7 +81,7 @@ Here we specify the date from which the data is valid.
 A special value is 'daily' for files that should be updated daily.
 
 
-## Installation on Debian 
+## Installation on Debian
 
 To run the test manually you require [nodejs](https://nodejs.org):
 ```bash
