@@ -1,9 +1,11 @@
 {
-  "title": "OpenAIP (http://www.openaip.net)",
-  "records": [{
-    "name": "OpenAIP-Hotspots.cup",
-    "uri": "http://www.openaip.net/xcsoar_export/world_hot.cup",
-    "type": "waypoint",
-    "update": "monthly"
-  }]
+  "records": [
+    {
+      "name": "OpenAIP-Hotspots.cup",
+      "type": "waypoint",
+      "update": "monthly",
+      "uri": "http://www.openaip.net/xcsoar_export/world_hot.cup"
+    }
+  ],
+  "title": "OpenAIP (http://www.openaip.net)"
 }

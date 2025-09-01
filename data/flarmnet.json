@@ -1,14 +1,17 @@
 {
-  "title": "OGN DDB (flarmnet) ",
-  "records": [{
-    "name": "data.fln",
-    "uri": "http://ddb.glidernet.org/download/download-fln.php",
-    "type": "flarmnet",
-    "update": "daily"
-  }, {
-    "name": "ogn-device-database.fln",
-    "uri": "http://ddb.glidernet.org/download/download-fln.php",
-    "type": "flarmnet",
-    "update": "daily"
-  }]
+  "records": [
+    {
+      "name": "data.fln",
+      "type": "flarmnet",
+      "update": "daily",
+      "uri": "http://ddb.glidernet.org/download/download-fln.php"
+    },
+    {
+      "name": "ogn-device-database.fln",
+      "type": "flarmnet",
+      "update": "daily",
+      "uri": "http://ddb.glidernet.org/download/download-fln.php"
+    }
+  ],
+  "title": "OGN DDB (flarmnet) "
 }

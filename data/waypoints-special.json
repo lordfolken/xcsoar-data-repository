@@ -1,19 +1,19 @@
 {
-  "title": "Waypoints-Special",
   "records": [
     {
-      "name": "2019_Hotzenwald_V11.cup",
-      "uri": "http://download.xcsoar.org/waypoints-special/2018_schwarzwald_landefelder.cup",
-      "type": "waypoints",
       "area": "de",
-      "update": "2019-05-16"
+      "name": "2019_Hotzenwald_V11.cup",
+      "type": "waypoints",
+      "update": "2019-05-16",
+      "uri": "http://download.xcsoar.org/waypoints-special/2018_schwarzwald_landefelder.cup"
     },
     {
-      "name": "WP2020_Bronkow.cup",
-      "uri": "http://download.xcsoar.org/waypoints-special/WP2020_Bronkow.cup",
-      "type": "waypoints",
       "area": "de",
-      "update": "2020-02-13"
+      "name": "WP2020_Bronkow.cup",
+      "type": "waypoints",
+      "update": "2020-02-13",
+      "uri": "http://download.xcsoar.org/waypoints-special/WP2020_Bronkow.cup"
     }
-  ]
+  ],
+  "title": "Waypoints-Special"
 }
